@@ -1,5 +1,5 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Introduction](README.md)
 * [Composer Autoloader optimization](composer-autoloader-optimization.md)
 
