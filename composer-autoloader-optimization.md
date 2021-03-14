@@ -35,5 +35,9 @@ There are a few options to enable this:
 * Always enabled `opcache`
 * Level 2/A
 
+
+
+1. [https://getcomposer.org/doc/articles/autoloader-optimization.md](https://getcomposer.org/doc/articles/autoloader-optimization.md)
+
  
 
