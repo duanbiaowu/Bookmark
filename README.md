@@ -1,7 +1,14 @@
+## WEB
+
+* [跨域问题及解决方案](https://www.cnblogs.com/smiler/p/5829621.html)
+* [浏览器输入URL到页面完成，发生了什么？](https://segmentfault.com/a/1190000040533922)
+
+
+
 ## PHP
 
 * [composer-autoloader优化.md](composer-autoloader优化.md)
-* [php-fpm常用配置项.md](phpfpm常用配置项.md)
+* [php-fpm常用配置项](phpfpm常用配置项.md)
 
 
 
