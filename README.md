@@ -7,8 +7,16 @@
 
 ## PHP
 
-* [composer-autoloader优化.md](composer-autoloader优化.md)
+* [composer-autoloader优化](composer-autoloader优化.md)
 * [php-fpm常用配置项](phpfpm常用配置项.md)
+
+
+
+## 英语
+
+* [快速测试你的词汇量](http://testyourvocab.com/)
+* [A Programmer's Guide to English](https://github.com/yujiangshui/A-Programmers-Guide-to-English)
+* [聪明人应该如何背单词？](https://zhuanlan.zhihu.com/p/26175433)
 
 
 
