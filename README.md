@@ -2,6 +2,7 @@
 
 * [跨域问题及解决方案](https://www.cnblogs.com/smiler/p/5829621.html)
 * [浏览器输入URL到页面完成，发生了什么？](https://segmentfault.com/a/1190000040533922)
+* [大文件上传方案](https://jelly.jd.com/article/5e734631affa8301490877f1)
 
 
 
@@ -9,6 +10,8 @@
 
 * [composer-autoloader优化](composer-autoloader优化.md)
 * [php-fpm常用配置项](phpfpm常用配置项.md)
+* [PHP内核了解：生命周期及运行模式](https://www.kancloud.cn/digest/php-src/136264)
+* [PHP安全编程](http://www.nowamagic.net/librarys/veda/special/PHP%E5%AE%89%E5%85%A8%E7%BC%96%E7%A8%8B/1)
 
 
 
