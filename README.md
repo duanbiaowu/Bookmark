@@ -49,3 +49,9 @@
 * [定位](https://www.processon.com/view/60bc30b27d9c0879370e5eaf#map)
 * [运营之光](https://www.processon.com/view/60b35f7ce0b34d2a3df5974f#map)
 
+
+
+## 简历
+
+* [简历模板](https://github.com/resumejob/awesome-resume/blob/master/imgs/all.jpg)
+* [写简历小贴士](https://github.com/resumejob/awesome-resume)
