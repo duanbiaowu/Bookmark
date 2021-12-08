@@ -34,11 +34,23 @@
 
 
 
+##  开发工具
+
+### 开源镜像站
+
+* [清华大学开源软件镜像站](https://mirrors.tuna.tsinghua.edu.cn/)
+* [华为开源镜像站](https://mirrors.huaweicloud.com)
+* [阿里云官方镜像站](https://developer.aliyun.com/mirror)
+* [网易开源镜像站](http://mirrors.163.com)
+
+
+
 ## 英语
 
 * [快速测试你的词汇量](http://testyourvocab.com/)
 * [A Programmer's Guide to English](https://github.com/yujiangshui/A-Programmers-Guide-to-English)
 * [聪明人应该如何背单词？](https://zhuanlan.zhihu.com/p/26175433)
+* [Grammarly](https://www.grammarly.com/)
 
 
 
