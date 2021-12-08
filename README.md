@@ -43,7 +43,15 @@
 * [阿里云官方镜像站](https://developer.aliyun.com/mirror)
 * [网易开源镜像站](http://mirrors.163.com)
 
+### 图片处理
 
+* [在线简易版Photoshop](https://v2.polarr.co)
+* [快速配色方案生成器](https://coolors.co/)
+
+### 视频处理
+
+* [根据 Git commit history 生成动画](https://gource.io/)
+* [网站视频下载小工具](https://github.com/soimort/you-get)
 
 ## 英语
 
