@@ -42,6 +42,15 @@
 
 
 
+## 数学
+
+* [在线数学函数绘图器](http://fooplot.com/)
+* [数学乐](https://www.shuxuele.com)
+* [数学问题求解器和计算器](https://mathsolver.microsoft.com/zh)
+* [我在知乎学数学](https://zhuanlan.zhihu.com/p/105704401)
+
+
+
 ## 读书
 
 * [How to Read Code](https://www.codedump.info/post/20210215-how-to-read-code-en/)
