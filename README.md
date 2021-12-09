@@ -1,7 +1,7 @@
-## WEB
+## Web
 
-* [跨域问题及解决方案](https://www.cnblogs.com/smiler/p/5829621.html)
-* [浏览器输入URL到页面完成，发生了什么？](https://segmentfault.com/a/1190000040533922)
+* [跨域问题及解决方案](https://www.cnblogs.com/smiler/p/5829621.html) [- 思维导图](https://www.processon.com/view/6184d49e0791293fb6c2420f)
+* [浏览器输入URL到页面完成，发生了什么？](https://segmentfault.com/a/1190000040533922) [ - 思维导图](https://www.processon.com/view/6188ddac5653bb1471110946)
 * [大文件上传方案](https://jelly.jd.com/article/5e734631affa8301490877f1)
 
 
