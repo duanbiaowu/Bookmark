@@ -58,6 +58,10 @@
 * [M1 兼容性](https://isapplesiliconready.com/zh)
 * [要不要现在买 iPhone？](https://buyersguide.macrumors.com)
 
+### Google
+
+* [Google使用技巧](https://www.lifehack.org/articles/technology/20-tips-use-google-search-efficiently.html)
+
 
 
 ## 英语
