@@ -13,6 +13,13 @@
 
 
 
+## Nginx
+
+* [Nginx开发从入门到精通](http://tengine.taobao.org/book/)
+* [Nginx 配置及优化 HTTPS ](https://jelly.jd.com/article/6006b1045b6c6a01506c87b5)
+
+
+
 ## PHP
 
 * [composer-autoloader优化](composer-autoloader优化.md)
