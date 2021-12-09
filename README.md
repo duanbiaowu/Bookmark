@@ -42,12 +42,19 @@
 * [华为开源镜像站](https://mirrors.huaweicloud.com)
 * [阿里云官方镜像站](https://developer.aliyun.com/mirror)
 * [网易开源镜像站](http://mirrors.163.com)
+* [在线图书馆](https://booksc.org/)
+
+### 文字处理
+
+* [word2html](https://wordhtml.com/)
+* [PDF在线翻译](https://fanyipdf.com/)
 
 ### 图片处理
 
 * [在线简易版Photoshop](https://v2.polarr.co)
 * [快速配色方案生成器](https://coolors.co/)
 * [在线代码截图](https://carbon.now.sh/)
+* [在线 Logo 生成](https://hatchful.shopify.com/zh-CN)
 
 ### 视频处理
 
@@ -62,10 +69,6 @@
 ### Google
 
 * [Google使用技巧](https://www.lifehack.org/articles/technology/20-tips-use-google-search-efficiently.html)
-
-### 翻译
-
-* [PDF在线翻译](https://fanyipdf.com/)
 
 
 
