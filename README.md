@@ -53,6 +53,13 @@
 * [根据 Git commit history 生成动画](https://gource.io/)
 * [网站视频下载小工具](https://github.com/soimort/you-get)
 
+### Apple
+
+* [M1 兼容性](https://isapplesiliconready.com/zh)
+* [要不要现在买 iPhone？](https://buyersguide.macrumors.com)
+
+
+
 ## 英语
 
 * [快速测试你的词汇量](http://testyourvocab.com/)
