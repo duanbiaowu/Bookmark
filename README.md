@@ -15,8 +15,10 @@
 
 ## Nginx
 
-* [Nginx开发从入门到精通](http://tengine.taobao.org/book/)
+* [Nginx 开发从入门到精通](http://tengine.taobao.org/book/)
 * [Nginx 配置及优化 HTTPS ](https://jelly.jd.com/article/6006b1045b6c6a01506c87b5)
+* [Nginx HTTPS 提速 30%](https://kalasearch.cn/blog/high-performance-nginx-tls-tuning/)
+* [一键生成 Nginx 配置文件](https://www.digitalocean.com/community/tools/nginx?global.app.lang=zhCN)
 
 
 
