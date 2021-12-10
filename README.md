@@ -24,10 +24,17 @@
 
 ## PHP
 
-* [composer-autoloader优化](composer-autoloader优化.md)
-* [php-fpm常用配置项](phpfpm常用配置项.md)
-* [PHP内核了解：生命周期及运行模式](https://www.kancloud.cn/digest/php-src/136264)
-* [PHP安全编程](http://www.nowamagic.net/librarys/veda/special/PHP%E5%AE%89%E5%85%A8%E7%BC%96%E7%A8%8B/1)
+* [composer-autoloader 优化](composer-autoloader优化.md)
+* [php-fpm 常用配置项](phpfpm常用配置项.md)
+* [PHP 源码分析](https://www.laruence.com/tag/php%e6%ba%90%e7%a0%81%e5%88%86%e6%9e%90)
+* [PHP7 内核剖析](https://github.com/pangudashu/php7-internal)
+* [PHP 内核了解：生命周期及运行模式](https://www.kancloud.cn/digest/php-src/136264)
+* [PHP 安全编程](http://www.nowamagic.net/librarys/veda/special/PHP%E5%AE%89%E5%85%A8%E7%BC%96%E7%A8%8B/1)
+* [Swoole 源码分析](https://learnku.com/blog/leoyang?page=1)
+* [opcode 性能优化](https://learnku.com/articles/61319)
+* [Hugepage 性能优化](https://www.laruence.com/2015/10/02/3069.html)
+* [PHP 自动加载原理](https://learnku.com/articles/4681/analysis-of-the-principle-of-php-automatic-loading-function)
+* [PHP 内核与原生扩展开发](https://learnku.com/docs/php-internals/php7)
 
 
 
