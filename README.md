@@ -40,6 +40,7 @@
 
 ## 工程设计
 
+* [Microsoft REST API Guidelines](https://github.com/microsoft/api-guidelines/blob/vNext/Guidelines.md)
 * [Microservices Patterns](https://livebook.manning.com/book/microservices-patterns/about-this-book/)
 * [凤凰架构](http://icyfenix.cn/summary/)
 * [DDD 指导业务设计的一点思考](https://insights.thoughtworks.cn/ddd-business-design)
