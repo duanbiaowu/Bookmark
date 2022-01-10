@@ -81,6 +81,7 @@
 ### 图片处理
 
 * [在线简易版Photoshop](https://v2.polarr.co)
+* [在线简易版Photoshop-2](https://www.photopea.com/)
 * [快速配色方案生成器](https://coolors.co/)
 * [在线代码截图](https://carbon.now.sh/)
 * [在线 Logo 生成](https://hatchful.shopify.com/zh-CN)
