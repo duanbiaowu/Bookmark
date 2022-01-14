@@ -9,6 +9,7 @@
 * [跨域问题及解决方案](https://www.cnblogs.com/smiler/p/5829621.html) [- 思维导图](https://www.processon.com/view/6184d49e0791293fb6c2420f)
 * [浏览器输入URL到页面完成，发生了什么？](https://segmentfault.com/a/1190000040533922) [ - 思维导图](https://www.processon.com/view/6188ddac5653bb1471110946)
 * [大文件上传方案](https://jelly.jd.com/article/5e734631affa8301490877f1)
+* [The Security Checklist](https://github.com/FallibleInc/security-guide-for-developers/blob/master/security-checklist.md)
 
 
 
@@ -64,7 +65,7 @@
 
 
 
-##  开发工具
+##  工具集
 
 ### 开源镜像站
 
@@ -100,6 +101,10 @@
 ### Google
 
 * [Google使用技巧](https://www.lifehack.org/articles/technology/20-tips-use-google-search-efficiently.html)
+
+### 其他
+
+* [记忆卡片](https://apps.ankiweb.net)
 
 
 
