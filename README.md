@@ -81,6 +81,8 @@
 
 * [word2html](https://wordhtml.com/)
 * [PDF在线翻译](https://fanyipdf.com/)
+* [中文技术文档写作规划](https://github.com/ruanyf/document-style-guide)
+* [中英混排文档在线排版工具](https://cyc2018.github.io/Text-Typesetting/)
 
 ### 图片处理
 
@@ -133,7 +135,6 @@
 * [How to Read Code](https://www.codedump.info/post/20210215-how-to-read-code-en/)
 * [Show Your Work](show-your-work.md)
 * [深度阅读](https://www.processon.com/view/60b1a781e401fd06e1cb3640)
-* [中文技术文档写作规划](https://github.com/ruanyf/document-style-guide)
 * [软技能: 代码之外的生存指南精要](ruan-ji-neng-dai-ma-zhi-wai-de-sheng-cun-zhi-nan-jing-yao.md)
 * [人性的优点](https://www.processon.com/view/60b1bcf77d9c08787643a3b8)
 * [常用分析工具](chang-yong-fen-xi-gong-ju.md)
