@@ -1,6 +1,7 @@
 ## System Design
 
 * [System Design in Practice](https://tianpan.co/notes/2016-02-13-crack-the-system-design-interview)
+* [Exercise](https://exercism.org)
 
 
 
@@ -10,6 +11,7 @@
 * [浏览器输入URL到页面完成，发生了什么？](https://segmentfault.com/a/1190000040533922) [ - 思维导图](https://www.processon.com/view/6188ddac5653bb1471110946)
 * [大文件上传方案](https://jelly.jd.com/article/5e734631affa8301490877f1)
 * [The Security Checklist](https://github.com/FallibleInc/security-guide-for-developers/blob/master/security-checklist.md)
+* [XSS过滤在线测试](https://jsxss.com/zh/try.html)
 
 
 
