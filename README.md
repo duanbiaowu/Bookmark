@@ -19,6 +19,8 @@
 
 * [非常棒的网站，支持多国语言](https://refactoring.guru)
 * [PHP版本](https://github.com/duanbiaowu/DesignPatternsPHP)
+* [OODesign.com](https://www.oodesign.com)
+* [Programming Principles](https://java-design-patterns.com/principles/)
 
 
 
