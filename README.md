@@ -2,6 +2,7 @@
 
 * [System Design in Practice](https://tianpan.co/notes/2016-02-13-crack-the-system-design-interview)
 * [Exercise](https://exercism.org)
+* [High Scalability](http://highscalability.com)
 
 
 
