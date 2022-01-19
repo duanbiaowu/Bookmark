@@ -105,6 +105,7 @@
 
 * [M1 兼容性](https://isapplesiliconready.com/zh)
 * [要不要现在买 iPhone？](https://buyersguide.macrumors.com)
+* [Awesome-mac](https://github.com/jaywcjlove/awesome-mac])
 
 ### Google
 
