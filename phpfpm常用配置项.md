@@ -63,11 +63,17 @@
 * 默认值: 系统定义值
 * 异常自启（表示60s内出现 60次 SIGSEGV orSIGBUS 异常时候，自动重启
 
-### emergency\_restart\_threshold, emergency\_restart\_interval
+### emergency_restart_threshold, emergency_restart_interval
 
 * emergency\_restart\_threshold = 60
 * emergency\_restart\_interval = 60s
 * 表示在 emergency\_restart\_interval 所设值时间内，出现 SIGSEGV或者SIGBUS 错误的php-cgi 进程数如果超过 emergency\_restart\_threshold 个，php-fpm就会优雅重启。
+
+### process_control_timeout
+
+* process_control_timeout 3s
+
+设置子进程接受主进程复用信号的超时时间
 
 
 
