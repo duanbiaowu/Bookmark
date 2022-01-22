@@ -57,9 +57,12 @@
 * [PHP 安全编程](http://www.nowamagic.net/librarys/veda/special/PHP%E5%AE%89%E5%85%A8%E7%BC%96%E7%A8%8B/1)
 * [Swoole 源码分析](https://learnku.com/blog/leoyang?page=1)
 * [opcode 性能优化](https://learnku.com/articles/61319)
+* [PHP Opcache 配置优化实战](https://segmentfault.com/a/1190000023648948)
+* [利用 OPcache 扩展提升 PHP7 性能 | Laravel 篇](https://learnku.com/articles/18782)
 * [Hugepage 性能优化](https://www.laruence.com/2015/10/02/3069.html)
 * [PHP 自动加载原理](https://learnku.com/articles/4681/analysis-of-the-principle-of-php-automatic-loading-function)
 * [PHP 内核与原生扩展开发](https://learnku.com/docs/php-internals/php7)
+* [让PHP7达到最高性能的几个Tips](https://www.laruence.com/2015/12/04/3086.html)
 
 
 
