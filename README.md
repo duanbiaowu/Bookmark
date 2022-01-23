@@ -15,6 +15,7 @@
 * [The Security Checklist](https://github.com/FallibleInc/security-guide-for-developers/blob/master/security-checklist.md)
 * [XSS 过滤在线测试](https://jsxss.com/zh/try.html)
 * [Web 安全](https://www.freebuf.com/articles/web)
+* [详解 https 是如何确保安全的](http://www.wxtlife.com/2016/03/27/%E8%AF%A6%E8%A7%A3https%E6%98%AF%E5%A6%82%E4%BD%95%E7%A1%AE%E4%BF%9D%E5%AE%89%E5%85%A8%E7%9A%84%EF%BC%9F/)
 
 
 
