@@ -73,6 +73,7 @@
 * [Microservices Patterns](https://livebook.manning.com/book/microservices-patterns/about-this-book/)
 * [凤凰架构](http://icyfenix.cn/summary/)
 * [敏捷-TDD-CI 理论](敏捷-TDD-CI理论.md)
+* [如何用正确的姿势打开 TDD？](https://zhuanlan.zhihu.com/p/24997923)
 * [DDD 指导业务设计的一点思考](https://insights.thoughtworks.cn/ddd-business-design)
 
 
