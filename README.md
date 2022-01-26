@@ -94,6 +94,8 @@
 * [PDF在线翻译](https://fanyipdf.com/)
 * [中文技术文档写作规划](https://github.com/ruanyf/document-style-guide)
 * [中英混排文档在线排版工具](https://cyc2018.github.io/Text-Typesetting/)
+* [Save Anything. Read Anywhere](https://www.instapaper.com)
+* [Readwise](https://readwise.io)
 
 ### 图片处理
 
