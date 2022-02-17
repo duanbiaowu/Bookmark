@@ -88,6 +88,10 @@
 * [网易开源镜像站](http://mirrors.163.com)
 * [在线图书馆](https://booksc.org/)
 
+### 终端
+
+* [终端 10X 工作法](http://legendtkl.com/2019/11/11/terminal-10x-bash/)
+
 ### 文字处理
 
 * [word2html](https://wordhtml.com/)
